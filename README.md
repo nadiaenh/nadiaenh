@@ -3,7 +3,7 @@
 <h3> About me </h3>
 
 - 🎓 &nbsp; I'm a final-year student in a BSc. in Mathematics (Statistics) @ UQàMontreal.
-- 💼 &nbsp; I want to work in machine learning, data science, or related fields.
+- 💼 &nbsp; Next year, I will be pursuing employment in machine learning, data science, or related fields.
 - 🌱 &nbsp; I'm currently learning ... all aspects of project-building as part of a team.
 - ✍️ &nbsp; In my spare time I like reading, drawing, writing, socializing, browsing Instagram and Googling things.
 
@@ -12,8 +12,6 @@
 - ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   
 - ![R (Statistics)](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![SAS (Statistics)](https://img.shields.io/badge/sas-%231572B6.svg?style=for-the-badge&logo=sas&logoColor=white)
