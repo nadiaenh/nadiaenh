@@ -9,7 +9,7 @@
 
 <h3> What I can use </h3>
 
-- :snake: &nbsp; Python, Pandas, Numpy
+- :snake: &nbsp; Python, Pandas, Numpy, Scikit-learn, Matplotlib, Jupyter Notebook
 - :bar_chart: &nbsp; R, SAS
 - :computer: &nbsp; Java, JavaScript, HTML, CSS
 - :wrench: &nbsp; Git, GitHub, GitLab, LaTeX
