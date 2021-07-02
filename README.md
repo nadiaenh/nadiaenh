@@ -14,14 +14,18 @@
 - :computer: &nbsp; Java, JavaScript, HTML, CSS
 - :wrench: &nbsp; Git, GitHub, GitLab, LaTeX
 
-<h3> My to-do list </h3>
+<h3> My past projects </h3>
+
+- :blue_book: &nbsp; <b><a href="https://github.com/cpappas18/articulaite">articulaite</a></b> | speech analysis, random forest classification, command line GUI, health
+
+<h3> My upcoming projects </h3>
  
  - :notebook: &nbsp; <b><a href="https://github.com/nadiaenh/cheatsheet">Cheatsheet</a></b> | for ML/AI/DS, interview prep, design 101, git
-- :robot: &nbsp; <b>Robotics</b> | raspberry pi ? reinforcement learning ? 
-- :eyes: &nbsp; <b>Computer Vision</b> | image recognition ? point-and-shoot real-time TL;DR generator (for textbooks / studying) ?
-- :lips: &nbsp; <b>Natural Language Processing</b> | with arabic speech ? language tool ? health tool ? sentiment analysis ?
-- :moneybag: &nbsp; <b>Stock Prediction</b> | that actually generates passive income
-- :globe_with_meridians: &nbsp; <b>Website Portfolio</b> | a pretty website  
+- :robot: &nbsp; <b>Robotics</b> | raspberry pi, reinforcement learning 
+- :eyes: &nbsp; <b>Computer Vision</b> | image recognition, TL;DR generator
+- :lips: &nbsp; <b>Natural Language Processing</b> | language tool, health tool, sentiment analysis 
+- :moneybag: &nbsp; <b>Stock Prediction</b> | 
+- :globe_with_meridians: &nbsp; <b>Website Portfolio</b> |   
 
 <h3> My contact information </h3>
 
