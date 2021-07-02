@@ -4,8 +4,8 @@
 
 - 🎓 &nbsp; <b>I'm a ...</b> final-year student in a BSc. in Mathematics (Statistics) @ UQàMontreal.
 - 💼 &nbsp; <b>I'm passionate about ...</b> machine learning, data science, and related fields.
-- 🌱 &nbsp; <b>I'm currently learning ...</b> everything I can about ML.
-- ✍️ &nbsp; <b>When I'm not working I ...</b> look at pretty things, read and write fiction, draw fanart, and Google things !
+- 🌱 &nbsp; <b>I'm currently learning ...</b> how to network !
+- ✍️ &nbsp; <b>When I'm not working I ...</b> read and write fiction, draw, eat cake and Google things !
 
 <h3> My skills </h3>
 
