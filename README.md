@@ -14,22 +14,24 @@
 - :computer: &nbsp; Java, JavaScript, HTML, CSS
 - :wrench: &nbsp; Git, GitHub, GitLab, LaTeX
 
-<h3> My past projects </h3>
+<h3> Past projects </h3>
 
 - :blue_book: &nbsp; <b><a href="https://github.com/cpappas18/articulaite">articulaite</a></b> | speech analysis, random forest classification, command line GUI, health
 
-<h3> My upcoming projects </h3>
+<h3> Ongoing projects </h3>
+
+- :globe_with_meridians: &nbsp; <b>Personal Website</b> | coming soon
+- :notebook: &nbsp; <b><a href="https://github.com/nadiaenh/cheatsheet">Cheatsheet</a></b> | collaborative repo for ML/AI/DS refreshers, interview prep, design 101, etc. 
+
+<h3> If you want to work on ... </h3>
  
- - :notebook: &nbsp; <b><a href="https://github.com/nadiaenh/cheatsheet">Cheatsheet</a></b> | for ML/AI/DS, interview prep, design 101, git
 - :robot: &nbsp; <b>Robotics</b> | raspberry pi, reinforcement learning 
 - :eyes: &nbsp; <b>Computer Vision</b> | image recognition, TL;DR generator
 - :lips: &nbsp; <b>Natural Language Processing</b> | language tool, health tool, sentiment analysis 
 - :moneybag: &nbsp; <b>Stock Prediction</b> | 
-- :globe_with_meridians: &nbsp; <b>Website Portfolio</b> |   
+- :question: &nbsp; <b>Something else ?</b> 
 
-<h3> My contact information </h3>
+<h3> ... contact me ! </h3>
 
 - :necktie: &nbsp; <a href="https://www.linkedin.com/in/nadia-enhaili/">LinkedIn</a>
 - :email: &nbsp; <a href="mailto:nadia.enhaili@gmail.com">Gmail</a>
-
-Message me if you want to work on something together, connect, be friends, or just have a chat !  
