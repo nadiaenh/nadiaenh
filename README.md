@@ -22,10 +22,10 @@
 
 - :globe_with_meridians: &nbsp; <b>Personal Website</b> | coming soon
 - :notebook: &nbsp; <b><a href="https://github.com/nadiaenh/cheatsheet">Cheatsheet</a></b> | collaborative repo for ML/AI/DS refreshers, interview prep, design 101, etc. 
+- :robot: &nbsp; <b>Robotics</b> | collaborative Raspberry Pi project, contact me to join the Discord !
 
 <h3> If you want to work on ... </h3>
  
-- :robot: &nbsp; <b>Robotics</b> | raspberry pi, reinforcement learning 
 - :eyes: &nbsp; <b>Computer Vision</b> | image recognition, TL;DR generator
 - :lips: &nbsp; <b>Natural Language Processing</b> | language tool, health tool, sentiment analysis 
 - :moneybag: &nbsp; <b>Stock Prediction</b> | 
