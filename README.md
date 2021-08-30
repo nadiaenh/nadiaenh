@@ -2,23 +2,23 @@
 
 <h3> My profile </h3>
 
-- 🎓 &nbsp; <b>I'm a ...</b> final-year student in a BSc. in Mathematics (Statistics) @ UQàM.
+- 🎓 &nbsp; <b>I'm a ...</b> Statistics undergrad @ University of Quebec in Montreal.
 - 💼 &nbsp; <b>I'm passionate about ...</b> machine learning, data science, and related fields.
-- 🌱 &nbsp; <b>I'm currently learning ...</b> robotics !
+- 🌱 &nbsp; <b>I'm currently learning ...</b> design and branding !
 - ✍️ &nbsp; <b>On my off-time I like to ...</b> read and write fiction, draw fanart, talk to friends, eat sweets and Google a lot of things !
 
 <h3> My skills </h3>
 
 - :snake: &nbsp; Python, Pandas, Numpy, Scikit-learn, Matplotlib, Jupyter Notebook
-- :bar_chart: &nbsp; R, SAS, VBA
+- :bar_chart: &nbsp; R, SAS, VBA, SQL 
 - :computer: &nbsp; Java, JavaScript, HTML, CSS
-- :wrench: &nbsp; Git, GitHub, GitLab, LaTeX
+- :wrench: &nbsp; Git, GitHub, LaTeX
 
 <h3> Ongoing projects </h3>
 
-- :globe_with_meridians: &nbsp; <b>Personal Website</b> | in the works
 - :notebook: &nbsp; <b><a href="https://github.com/nadiaenh/cheatsheet">Cheatsheet</a></b> | collaborative aggregation of refreshers and cheatsheets 
-- :robot: &nbsp; <b><a href="https://github.com/nadiaenh/raspberry-pi">Unnamed robotics project</a></b> | collaborative Raspberry Pi project
+- :robot: &nbsp; <b><a href="https://github.com/nadiaenh/raspberry-pi">Unnamed robotics project</a></b> | collaborative Raspberry Pi project  
+- 🤝 &nbsp; <b><a href="https://github.com/nadiaenh/relay.me">relay.me</a></b> | a Chrome extension to increase representation in tech **🥇TechNova 2021 #1 Beginner Hack** 
 
 <h3> Past projects </h3>
 
