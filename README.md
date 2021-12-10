@@ -8,8 +8,9 @@
 
 - <b><a href="https://github.com/cpappas18/articulaite">articulaite</a></b> | a machine learning diagnosis tool for speech disorders
 - <b><a href="https://github.com/Olivia-Chen-Xu/Programmarly">Programmarly</a></b> | a VSCode auto-correct extension for cross-language programming 
+- <b><a href="https://github.com/nadiaenh/work-samples/blob/main/Video%20Game%20Sales/Final%20slide%20deck%20(interview).pdf">Analysis of video game sales</a></b> | slide deck for a data science presentation 
 - <b><a href="https://github.com/nadiaenh/relay.me">relay.me</a></b> | a Chrome extension to increase representation in tech // **🥇TechNova 2021 #1 Beginner Hack**  
 - <b><a href="https://github.com/nadiaenh/nouri">nouri</a></b> | a Chrome extension to help find skin-safe skincare // **HackTheNorth 2021 submission**  
 - <b><a href="https://devpost.com/software/detecting-censorship">Detecting Internet Censorship</a></b> | analysis of internet censorship around the world // **Technica Research 2021 submission**  
 
-Last update : Dec. 1st, 2021
+Last update : Dec. 10th, 2021
