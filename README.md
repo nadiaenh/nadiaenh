@@ -1,16 +1,15 @@
-# Portfolio and archives
+# Hi
 
-<h3> 📖 Current work </h3>
+👩‍🏫 I am a <b> grad student </b> 
+<br>
+✒️ doing research in <b> statistics, machine learning, and healthcare </b>
 
-<i>TBD...</i>
-
-<h3> 📘 Past work </h3>
-
-- <b><a href="https://github.com/cpappas18/articulaite">articulaite</a></b> | a machine learning diagnosis tool for speech disorders
-- <b><a href="https://github.com/Olivia-Chen-Xu/Programmarly">Programmarly</a></b> | a VSCode auto-correct extension for cross-language programming 
-- <b>Analysis of video game sales</b> | a data analysis and predictions report on global sales of video games 
-- <b><a href="https://github.com/nadiaenh/relay.me">relay.me</a></b> | a Chrome extension to increase representation in tech // **🥇TechNova 2021 #1 Beginner Hack**  
-- <b><a href="https://github.com/nadiaenh/nouri">nouri</a></b> | a Chrome extension to help find skin-safe skincare // **HackTheNorth 2021 submission**  
-- <b><a href="https://devpost.com/software/detecting-censorship">Detecting Internet Censorship</a></b> | analysis of internet censorship around the world // **Technica Research 2021 submission**  
-
-Last update : Jan. 1st, 2022
+*My current work involves sensitive data so here is some old stuff instead:*
+<br>
+<b><a href="https://github.com/cpappas18/articulaite">articulaite (2021)</a></b> | a machine learning diagnosis tool for speech disorders
+<br>
+<b><a href="https://github.com/Olivia-Chen-Xu/Programmarly">Programmarly (2021)</a></b> | a VSCode auto-correct extension for cross-language programming
+<br>
+<b><a href="https://github.com/nadiaenh/relay.me">relay.me (2021)</a></b> | a Chrome extension to increase representation in tech (Hackathon 1st place)  
+<br>
+Last update : Feb. 18, 2023
