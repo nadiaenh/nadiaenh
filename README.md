@@ -1,16 +1,8 @@
-# Hello,
 
-I am a 2nd year master's student currently based in Vancouver, BC 🍁  
-
----
-
-**my website** *[in progress]*  
-a website. 
-
-**[charanari](https://www.github.com/nadiaenh/charanari)** *[in progress]*  
+**[charanari](https://www.github.com/nadiaenh/charanari)** *[offline]*  
 having fun with NextJS, Prisma ORM, Supabase, TailwindCSS, and Clerk Auth.  
 
-**[Survey.jl](https://gist.github.com/nadiaenh/78619132bd7994961398866779430e91)** *[complete]*  
+**[Survey.jl](https://gist.github.com/nadiaenh/78619132bd7994961398866779430e91)** *[merged]*  
 open source work on a statistical analysis package as part of Google Summer of Code.  
 
 ~~**[Programmarly](https://github.com/Olivia-Chen-Xu/Programmarly)**~~ *[archived]*  
