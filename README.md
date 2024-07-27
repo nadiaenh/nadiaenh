@@ -1,5 +1,7 @@
+**[nadia.fyi](https://www.nadia.fyi)**  
+my personal website + blog.
 
-**[charanari](https://www.github.com/nadiaenh/charanari)** *[offline]*  
+~~**[charanari](https://www.github.com/nadiaenh/charanari)**~~ *[offline]*  
 having fun with NextJS, Prisma ORM, Supabase, TailwindCSS, and Clerk Auth.  
 
 **[Survey.jl](https://gist.github.com/nadiaenh/78619132bd7994961398866779430e91)** *[merged]*  
